@@ -1,0 +1,47 @@
+{
+  "Metadata": {
+    "title": "Athar — Digital Passport for Saudi Handmade Products",
+    "description": "Athar issues a blockchain-verified digital passport for authentic Saudi handmade products, connecting artisans, buyers and their stories."
+  },
+  "Nav": {
+    "brand": "Athar",
+    "tagline": "Digital Passport",
+    "home": "Home",
+    "products": "Products",
+    "artisans": "Artisans",
+    "verify": "Verify",
+    "about": "About",
+    "signIn": "Sign in",
+    "getStarted": "Get started",
+    "openMenu": "Open menu",
+    "menu": "Menu",
+    "language": "Language",
+    "languageArabic": "العربية",
+    "languageEnglish": "English"
+  },
+  "Home": {
+    "badge": "Blockchain-verified authenticity",
+    "title": "A digital passport for every Saudi handmade story",
+    "subtitle": "Athar links each authentic handmade product to a tamper-proof digital identity — tracing its maker, materials and journey from the artisan's hands to yours.",
+    "ctaPrimary": "Verify a product",
+    "ctaSecondary": "Explore artisans",
+    "features": {
+      "provenance": {
+        "title": "Verified provenance",
+        "description": "Every passport is anchored on-chain, so authenticity can be checked by anyone, anywhere."
+      },
+      "artisans": {
+        "title": "Empowered artisans",
+        "description": "Makers tell their own story and receive fair recognition for genuine craftsmanship."
+      },
+      "heritage": {
+        "title": "Living heritage",
+        "description": "Preserve Saudi craft traditions by documenting each piece's materials and techniques."
+      }
+    }
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "madeIn": "Crafted in Saudi Arabia"
+  }
+}
